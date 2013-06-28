@@ -1,0 +1,20 @@
+{
+  "folders":
+  [
+    {
+      "path": "./wp-content/themes/cambara",
+      "file_exclude_patterns": ["*.pot", "*.mo", "*.txt"],
+      "folder_exclude_patterns": [".sass-cache", "images", "languages", "fonts"]
+    },
+    {
+      "path": "./wp-content/plugins",
+      "file_exclude_patterns": ["*.pot", "*.mo", "*.txt"],
+      "folder_exclude_patterns": [".sass-cache", "images", "languages", "fonts"]
+    },
+    {
+      "path": "./",
+      "file_include_patterns": ["wp-config.php", ".gitignore", ".git-ftp-ignore"],
+      "folder_exclude_patterns": ["wp-*", ".sass-cache", "flash"]
+    }
+  ]
+}

@@ -1,0 +1,1712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"git",
+				"github"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"proje",
+				"project_id"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"app",
+				"app_context"
+			],
+			[
+				"deco",
+				"decorative-content"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"absolute",
+				"absolute-centering"
+			],
+			[
+				"ou",
+				"outside"
+			],
+			[
+				"list-t",
+				"list-style-position"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"footer",
+				"footerblue"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"borde",
+				"border-bottom-width"
+			],
+			[
+				"has",
+				"has_many"
+			],
+			[
+				"ni",
+				"nickname"
+			],
+			[
+				"cata",
+				"catarse_pagosonline"
+			],
+			[
+				"texal",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"whit",
+				"white"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"imag",
+				"image_url"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"ima",
+				"image-replace"
+			],
+			[
+				"secon",
+				"second_project"
+			],
+			[
+				"first",
+				"first_project"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"shi",
+				"shipping_rate_type_id"
+			],
+			[
+				"ship",
+				"shipped_at"
+			],
+			[
+				"shipped",
+				"shipped_at"
+			],
+			[
+				"read",
+				"ready_to_ship"
+			],
+			[
+				"to",
+				"to_ship"
+			],
+			[
+				"shippin",
+				"shipping_method_id"
+			],
+			[
+				"user",
+				"user_cart_items"
+			],
+			[
+				"curre",
+				"current_user_session"
+			],
+			[
+				"session",
+				"session_cart"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"Accoun",
+				"accounts"
+			],
+			[
+				"crea",
+				"create_product"
+			],
+			[
+				"j",
+				"jhw-cache"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"main",
+				"mainHeader"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"jquery",
+				"jquery	<script> (jQuery google ajax api)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"a",
+				"ass: assert_select"
+			],
+			[
+				"table",
+				"table: <table>"
+			],
+			[
+				"nil",
+				"nil  (function)"
+			],
+			[
+				"def",
+				"def: def … end"
+			],
+			[
+				"de",
+				"destroy  (function)"
+			],
+			[
+				"PAYM",
+				"PAYMENT_TYPES  (variable)"
+			],
+			[
+				"cr",
+				"create  (function)"
+			],
+			[
+				"ass",
+				"ass: assert_select"
+			],
+			[
+				"attri",
+				"attributes  (argument)"
+			],
+			[
+				"render",
+				"render  (function)"
+			],
+			[
+				"numb",
+				"number_to_currency  (function)"
+			],
+			[
+				"numbe",
+				"number_to_currency  (function)"
+			],
+			[
+				"Reco",
+				"RecordNotFound  (class)"
+			],
+			[
+				"cre",
+				"create  (function)"
+			],
+			[
+				"pro",
+				"proc  (function)"
+			],
+			[
+				"plu",
+				"pluralize  (function)"
+			],
+			[
+				"ul",
+				"ul: <ul>"
+			],
+			[
+				"find",
+				"find  (function)"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"nav",
+				"nav: <nav>"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"title",
+				"extend_with_included_modules_from  (function)"
+			],
+			[
+				"error",
+				"errors  (function)"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"val",
+				"validate  (function)"
+			],
+			[
+				"text-al",
+				"text-align:   (property)"
+			],
+			[
+				"font-si",
+				"font-size:   (property)"
+			],
+			[
+				"marg",
+				"margin:   (property)"
+			],
+			[
+				"font-s",
+				"font-size:   (property)"
+			],
+			[
+				"font-w",
+				"font-weight:   (property)"
+			],
+			[
+				"top",
+				"top  (value)"
+			],
+			[
+				"vertica",
+				"vertical-align:   (property)"
+			],
+			[
+				"border-cola",
+				"border-collapse:   (property)"
+			],
+			[
+				"self",
+				"self  (function)"
+			],
+			[
+				"batches",
+				"batches  (variable)"
+			],
+			[
+				"rescue",
+				"rescue  (function)"
+			],
+			[
+				"batche",
+				"batches  (variable)"
+			],
+			[
+				"sold",
+				"save_without_validation  (function)"
+			],
+			[
+				"set",
+				"set_inheritance_column  (function)"
+			],
+			[
+				"gender",
+				"right_gender?  (function)"
+			],
+			[
+				"elsif",
+				"elsif: elsif ..."
+			],
+			[
+				"amount",
+				"private_methods  (function)"
+			],
+			[
+				"blo",
+				"block  (value)"
+			],
+			[
+				"form",
+				"form: form - Placeholder"
+			],
+			[
+				"puts",
+				"puts  (function)"
+			],
+			[
+				"compa",
+				"compact  (function)"
+			],
+			[
+				"validates",
+				"validates_associated  (function)"
+			],
+			[
+				"face",
+				"facebook  (argument)"
+			],
+			[
+				"tran",
+				"transparent  (value)"
+			],
+			[
+				"img",
+				"img: img"
+			],
+			[
+				"event",
+				"event_data  (variable)"
+			],
+			[
+				"cur",
+				"current_page  (argument)"
+			],
+			[
+				"facebook",
+				"facebook  (argument)"
+			],
+			[
+				"even",
+				"events_data  (variable)"
+			],
+			[
+				"events",
+				"events_data  (variable)"
+			],
+			[
+				"border-top-c",
+				"border-top-color"
+			],
+			[
+				"border-to",
+				"border-top"
+			],
+			[
+				"id",
+				"id	@id"
+			],
+			[
+				"helper",
+				"helper_method  (function)"
+			],
+			[
+				"ses",
+				"session  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 69.0,
+		"selected_items":
+		[
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lates",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"gis",
+				"Gist: Copy Gist URL"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist",
+				"Gist: Copy Gist URL"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"late",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"lat",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"la",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"delt",
+				"File: Delete"
+			],
+			[
+				"sniwor",
+				"Snippet: wordpress-project-settings"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sniwo",
+				"Snippet: wordpress-project-settings"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: h",
+				"Snippet: html"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Default File Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"use",
+				"Preferences: User Global Settings"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Guga/Sites/dublin/wp-content/themes/Dublin/lib/media.less",
+		"/Users/Guga/Sites/dublin/wp-content/themes/Dublin/no-sidebar-page.php",
+		"/Users/Guga/Sites/giseledemenezes/.git/config",
+		"/Users/Guga/Sites/dublin/.git/config",
+		"/Users/Guga/Sites/dublin/wp-content/themes/Dublin/inc/custom-posts.php",
+		"/Users/Guga/Sites/dublin/wp-content/themes/Dublin/contato-page.php",
+		"/Users/Guga/Sites/dublin/.gitignore",
+		"/Users/Guga/Sites/dublin/.git-ftp-ignore",
+		"/Users/Guga/Sites/dublin/dublin.sublime-project",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_header.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_project.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_donate.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_invest.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/Gemfile",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/routes.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_footer.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_header.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/show.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/views/projects/show.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/backers/show.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/spec_helper.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/locales/pt.yml",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/static/guidelines_backers.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/features/projects_spec.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/possible_investors_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/_box.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/_project_js.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/static/guidelines_start.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/static/guidelines_tips.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/index.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_sidebar.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/_project.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/index.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/projects_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/backer_project_unsuccessful.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/updates.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/pending_backer_project_unsuccessful.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/pending_backer_project_unsuccessful.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/new_draft_project.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/new_draft_project.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/backer_project_unsuccessful.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/backer_project_successful.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/backer_project_successful.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_visible.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_visible.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_unsuccessful.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_unsuccessful.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_success.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_success.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_rejected.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_rejected.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_received.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/project_received.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/payment_slip.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/processing_payment.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/processing_payment.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/new_features.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/new_features.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/confirm_backer.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/confirm_backer.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/updates.pt.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/notifications_mailer/payment_slip.en.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/mailers/notifications_mailer.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/notification.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_footer.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/environment.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_miv.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/initializers/session_store.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/helpers/application_helper.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/application_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/public/robots.txt",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/views/projects/index.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/catarse.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/ability.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/projects/new.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/models/project_spec.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/db/migrate/20130526214958_adds_area_and_impact_to_projects.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/db/structure.sql",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/project.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_forms.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/factories.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/application.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/application.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/lib/modernizr-2.6.2.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_uservoice.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/db/migrate/20130211174609_add_name_en_to_categories.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/controllers/projects_controller_spec.rb",
+		"/Users/Guga/.bash_profile",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/controllers/possible_investors_controller_spec.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/views/explore/index.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/explore/_project_js.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/explore/_project.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/explore_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_flash.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/views/layouts/application.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/uploaders/project_file_uploader.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/_donate_invest.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_analytics.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/db/migrate/20121226120921_initial_schema.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/initializers/sendgrid.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/db/migrate/20130526143534_add_likes_to_projects.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/_top_menu.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/application.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/invest.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/donate.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/lbm_miv/resources/projects/_index.css.sass",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/layouts/application.html.haml",
+		"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/project_files_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/initializers/carrierwave.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/uploaders/logo_uploader.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/initializers/s3_direct_upload.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/project_files/create.js.erb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/javascripts/app/views/projects/new.js",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/project_file.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/config/locales/en.yml",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/home_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/decorators/user_decorator_spec.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/helpers/home_helper.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/home.css.scss",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/user.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/decorators/project_decorator.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/controllers/backers_controller.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/adm/financials/index.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/spec/models/user_spec.rb",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/views/devise/sessions/new.html.slim",
+		"/Users/Guga/Sites/engage/littlebigmoney/app/models/authorization.rb"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"140px",
+			"carrot",
+			":after:hover",
+			"spr",
+			"sprite",
+			"padding-bottom: 30px",
+			"explore",
+			"paypal",
+			"explo",
+			"p=",
+			"p",
+			"p <",
+			"p",
+			"explore_url",
+			"/explore",
+			"link_to",
+			"notification",
+			"kind",
+			"link_to",
+			"explore",
+			";",
+			"explore",
+			"possibl",
+			".box",
+			"subdomain: '",
+			"new_user_session",
+			"projects_path(subdomain: 'invest')",
+			"_path",
+			"projects_path(subdomain: 'donate')",
+			"host:",
+			":donate",
+			":invest",
+			"subdomain: 'invest'",
+			"subdomain: :donate",
+			"donate.subdomain",
+			"subdomain",
+			"'donate'",
+			"subdomain",
+			";",
+			"li",
+			".columns.large-4",
+			"projects_path",
+			"projects",
+			"explore_path",
+			"updateAtives",
+			"highlights",
+			"setParam",
+			", section.by_entrepreneur_type a",
+			"enterpreneur_type",
+			"nterpreneur",
+			"enterpreneur",
+			"key",
+			"category",
+			"by_categ",
+			"by_id",
+			"state",
+			"permalink",
+			"state",
+			".by_",
+			"as_donate",
+			"attr",
+			"key",
+			"4px",
+			"6px",
+			"5",
+			"'",
+			"fb",
+			"sear",
+			"h2",
+			";",
+			"update",
+			"Country",
+			"country",
+			"render",
+			".flash",
+			";",
+			"user",
+			"uservoice",
+			"analytics",
+			"sendgrid",
+			"inves",
+			"form_for",
+			".7",
+			"pr@",
+			"aws",
+			"s3_",
+			"form",
+			"persona",
+			"showUpRewardEditForm",
+			"showUpNewRewardForm",
+			"bestInPlaceEvents",
+			"reward",
+			"countr",
+			"sign up",
+			"sing up",
+			".large-",
+			";",
+			"birth",
+			"avatar",
+			"photo",
+			"Photo",
+			"@photo",
+			"photo",
+			"Photo",
+			"photo",
+			"Photo",
+			"photo",
+			"Photo",
+			"photo",
+			" =>",
+			":catarse_fee",
+			"avatars.io",
+			"image_url",
+			"provider",
+			"twitter",
+			" =>",
+			" account",
+			"'",
+			"facebook",
+			"create_with_omniauth",
+			"facebook",
+			"avatar",
+			"moip",
+			"ini",
+			"decorative",
+			";",
+			".explore_link.right",
+			".list\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"link_to \"Ver\"",
+			"submit 'Atualizar'",
+			"link_to \"editar\"",
+			"\"Voltar a lista\"",
+			"class: ",
+			"\"Ver todos\"",
+			"'Tem certeza?'",
+			"\"Editar\"",
+			"\"Destruir\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"func",
+				"Dublin/functions.php"
+			],
+			[
+				"media",
+				"Dublin/lib/media.less"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				".css.sass",
+				"app/assets/stylesheets/lbm_miv/_project.css.sass"
+			],
+			[
+				"inv",
+				"app/assets/stylesheets/lbm_miv/_invest.css.sass"
+			],
+			[
+				"don",
+				"app/assets/stylesheets/lbm_miv/_donate.css.sass"
+			],
+			[
+				"foot",
+				"app/assets/stylesheets/lbm_miv/_footer.css.sass"
+			],
+			[
+				"heade",
+				"app/assets/stylesheets/lbm_miv/_header.css.sass"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"projinde",
+				"app/views/projects/index.html.slim"
+			],
+			[
+				"guideliti",
+				"app/views/static/guidelines_tips.html.slim"
+			],
+			[
+				"guidel",
+				"app/views/static/guidelines_start.html.slim"
+			],
+			[
+				"box",
+				"app/views/projects/_box.html.slim"
+			],
+			[
+				"projejs",
+				"app/views/projects/_project_js.html.slim"
+			],
+			[
+				"projesli",
+				"app/views/projects/_project.html.slim"
+			],
+			[
+				"index",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"projsass",
+				"app/assets/stylesheets/lbm_miv/_project.css.sass"
+			],
+			[
+				"projspe",
+				"spec/features/projects_spec.rb"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
+			],
+			[
+				"possiincon",
+				"app/controllers/possible_investors_controller.rb"
+			],
+			[
+				"projcont",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"projeshow",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"poss",
+				"app/controllers/possible_investors_controller.rb"
+			],
+			[
+				"showjs",
+				"app/assets/javascripts/app/views/projects/show.js"
+			],
+			[
+				"notima",
+				"app/mailers/notifications_mailer.rb"
+			],
+			[
+				"notifica",
+				"app/models/notification.rb"
+			],
+			[
+				"views/notificamailer/.slim",
+				"app/views/notifications_mailer/updates.pt.html.slim"
+			],
+			[
+				"noti",
+				"app/models/notification.rb"
+			],
+			[
+				"projshow",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"sto",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"stor",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"store",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"projcontro",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"indexsas",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"projebo",
+				"app/views/projects/_box.html.slim"
+			],
+			[
+				"projecslim",
+				"app/views/projects/_project.html.slim"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"miv",
+				"app/assets/stylesheets/lbm_miv/_miv.css.sass"
+			],
+			[
+				"projindex",
+				"app/views/projects/index.html.slim"
+			],
+			[
+				"apphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"sess",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"aphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"appcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applhel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.slim"
+			],
+			[
+				"robo",
+				"public/robots.txt"
+			],
+			[
+				".js",
+				"app/assets/javascripts/app/views/projects/index.js"
+			],
+			[
+				"projebox",
+				"app/views/projects/_box.html.slim"
+			],
+			[
+				"inves",
+				"app/assets/stylesheets/lbm_miv/_invest.css.sass"
+			],
+			[
+				"dona",
+				"app/assets/stylesheets/lbm_miv/_donate.css.sass"
+			],
+			[
+				"indecsas",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"foote",
+				"app/views/layouts/_footer.html.slim"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.slim"
+			],
+			[
+				"projeindejs",
+				"app/assets/javascripts/app/views/projects/index.js"
+			],
+			[
+				"projeindex",
+				"app/assets/javascripts/app/views/projects/index.js"
+			],
+			[
+				"projnew",
+				"app/views/projects/new.html.slim"
+			],
+			[
+				"proj",
+				"app/models/project.rb"
+			],
+			[
+				"facto",
+				"spec/factories.rb"
+			],
+			[
+				"applhe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"proje",
+				"app/models/project.rb"
+			],
+			[
+				"appljs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"applisli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.slim"
+			],
+			[
+				"inde",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"headesl",
+				"app/views/layouts/_header.html.slim"
+			],
+			[
+				"projeinde",
+				"app/views/projects/index.html.slim"
+			],
+			[
+				"headersas",
+				"app/assets/stylesheets/lbm_miv/_header.css.sass"
+			],
+			[
+				"projecontro",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"abi",
+				"app/models/ability.rb"
+			],
+			[
+				"projecnew",
+				"app/views/projects/new.html.slim"
+			],
+			[
+				"migrate",
+				"db/migrate/20130211174609_add_name_en_to_categories.rb"
+			],
+			[
+				"projconto",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"projecspe",
+				"spec/features/projects_spec.rb"
+			],
+			[
+				"projecontrolsp",
+				"spec/controllers/projects_controller_spec.rb"
+			],
+			[
+				"pssiblinvecon",
+				"spec/controllers/possible_investors_controller_spec.rb"
+			],
+			[
+				"explo",
+				"app/controllers/explore_controller.rb"
+			],
+			[
+				"projecont",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"applcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"flash",
+				"app/views/layouts/_flash.html.slim"
+			],
+			[
+				"indesass",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"applislim",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"show.js",
+				"app/assets/javascripts/app/views/projects/show.js"
+			],
+			[
+				"projefiup",
+				"app/uploaders/project_file_uploader.rb"
+			],
+			[
+				"projecontrol",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"procon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"projfil",
+				"app/uploaders/project_file_uploader.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"aplhel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"invessass",
+				"app/assets/stylesheets/lbm_miv/_invest.css.sass"
+			],
+			[
+				"_headsli",
+				"app/views/layouts/_header.html.slim"
+			],
+			[
+				"top",
+				"app/views/layouts/_top_menu.html.slim"
+			],
+			[
+				"topme",
+				"app/views/layouts/_top_menu.html.slim"
+			],
+			[
+				"indsass",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"donainve",
+				"app/assets/stylesheets/lbm_miv/_donate_invest.css.sass"
+			],
+			[
+				"indexsass",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"appliccont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appslim",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"footersas",
+				"app/assets/stylesheets/lbm_miv/_footer.css.sass"
+			],
+			[
+				"indesss",
+				"app/assets/stylesheets/lbm_miv/index.css.sass"
+			],
+			[
+				"headerlim",
+				"app/views/layouts/_header.html.slim"
+			],
+			[
+				"applicasli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"applsli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"projesass",
+				"app/assets/stylesheets/lbm_miv/resources/projects/_index.css.sass"
+			],
+			[
+				"mivsass",
+				"app/assets/stylesheets/lbm_miv/_miv.css.sass"
+			],
+			[
+				"appsass",
+				"app/assets/stylesheets/application.css.sass"
+			],
+			[
+				"headersass",
+				"app/assets/stylesheets/lbm_miv/_header.css.sass"
+			],
+			[
+				".sass",
+				"app/assets/stylesheets/application.css.sass"
+			],
+			[
+				"projfilup",
+				"app/uploaders/project_file_uploader.rb"
+			],
+			[
+				"upload",
+				"app/uploaders/logo_uploader.rb"
+			],
+			[
+				"projefilcon",
+				"app/controllers/project_files_controller.rb"
+			],
+			[
+				"carr",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"projcon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"logoup",
+				"app/uploaders/logo_uploader.rb"
+			],
+			[
+				"carre",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"s3",
+				"config/initializers/s3_direct_upload.rb"
+			],
+			[
+				"uploader",
+				"app/uploaders/project_file_uploader.rb"
+			],
+			[
+				"create",
+				"app/views/project_files/create.js.erb"
+			],
+			[
+				"appsa",
+				"app/assets/stylesheets/application.css.sass"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"crea",
+				"app/views/project_files/create.js.erb"
+			],
+			[
+				"projefil",
+				"app/models/project_file.rb"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css.sass"
+			],
+			[
+				"projenew",
+				"app/views/projects/new.html.slim"
+			],
+			[
+				"sideba",
+				"app/views/layouts/_sidebar.html.slim"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"rlf",
+				"/Users/Guga/Sites/rlf_rails/rentalocalfriend.sublime-project"
+			],
+			[
+				"sap",
+				"/Users/Guga/Sublime Projects/sapecapaz.sublime-project"
+			],
+			[
+				"gisel",
+				"/Users/Guga/Sublime Projects/giseledemenezes.sublime-project"
+			],
+			[
+				"re",
+				"/Users/Guga/Sites/rlf_rails/rentalocalfriend.sublime-project"
+			],
+			[
+				"",
+				"/Users/Guga/Sublime Projects/mineo.sublime-project"
+			],
+			[
+				"fdi",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"min",
+				"/Users/Guga/Sublime Projects/mineo.sublime-project"
+			],
+			[
+				"fes",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"mob",
+				"/Users/Guga/Sites/mobgeek/mobgeek.sublime-project"
+			],
+			[
+				"qr",
+				"/Users/Guga/Sites/qrshirts/qrshirts.sublime-project"
+			],
+			[
+				"q",
+				"/Users/Guga/Sites/qrshirts/qrshirts.sublime-project"
+			],
+			[
+				"sim",
+				"/Users/Guga/Sublime Projects/sim.sublime-project"
+			],
+			[
+				"cri",
+				"/Users/Guga/Sublime Projects/criaideias.sublime-project"
+			],
+			[
+				"mangu",
+				"/Users/Guga/Sublime Projects/manguezal.sublime-project"
+			],
+			[
+				"bil",
+				"/Users/Guga/Sublime Projects/bilheteria.sublime-project"
+			],
+			[
+				"sam",
+				"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/sambaestudio.sublime-project"
+			],
+			[
+				"gus",
+				"/Users/Guga/Sublime Projects/gustavoguichard.sublime-project"
+			],
+			[
+				"sa",
+				"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/sambaestudio.sublime-project"
+			],
+			[
+				"br",
+				"/Users/Guga/Sublime Projects/brasilian.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}

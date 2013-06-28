@@ -1,0 +1,12 @@
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+span#actual_temp{
+	position: absolute !important;
+	margin-top: 40px !important;
+	display: block;
+	line-height: 30px;
+}
+#weather .temp{
+	width: 100px;
+}

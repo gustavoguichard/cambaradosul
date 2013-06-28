@@ -1,0 +1,14 @@
+/*
+Theme Name: Cambará do Sul
+Theme URI: http://www.cambaradosul.gov.br
+Description: This is the Theme of the touristic city: Cambará do Sul
+Version: 1.0
+Author: Gustavo Guichard
+Author URI: http://www.gustavoguichard.com
+Tags: governamental, informative
+*/
+
+@import "css/reset.css";
+@import "css/960.css";
+@import "css/layout.css";
+@import "css/jquery.lightbox-0.5.css";
